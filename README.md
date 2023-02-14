@@ -1,5 +1,7 @@
 # monster-gov
 
+> **Disclaimer**: This is work in progress and ideas/vision, not the final design.
+
 ## About this Repository
 
 This repository will be used for
@@ -9,10 +11,12 @@ This repository will be used for
 
 ## Governance Process
 
-The Governance Process for Polchain Monsters DAO involves two steps:
+The Governance Process for Polchain Monsters DAO involves the following steps:
 
 - creating an on-chain proposal
 - and voting on it
+- queueing the actions (e.g. the tx to send $PMON from treasury to the receiver of a grant)
+- executing the actions on-chain
 
 To prevent spam and ensure that the proposed changes serve the Polychain Monstes DAO, proposals require a certain amount of locked $PMON, currently set at 100,000+.
 
@@ -23,5 +27,3 @@ Voting power calculation is under development, likely based on the number of own
 A similar setup can be found at https://nouns.center/funding/proposals.
 
 </br>
-
-> **Disclaimer**: This is work in progress. Concepts & Processes might and probably will change, also after transition of Polychain Monsters to a DAO. Also DAOs have to adapt if the environment changes or we recognize flaws in the DAO design.
