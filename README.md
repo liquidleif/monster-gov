@@ -7,8 +7,6 @@ This repository will be used for
 - documentation of our vision for governance at Polychain Monsters
 - development of the governance related smart contracts used at Polychain Monsters
 
-</br>
-
 ## Governance Process
 
 The Governance Process for Polchain Monsters DAO involves two steps:
