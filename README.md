@@ -28,18 +28,6 @@ A similar setup can be found at https://nouns.center/funding/proposals.
 
 ## Single Chain vs. Cross Chain
 
-As described in the [Governance Process Section](#governance-process) the governance process will happen mostly on-chain. A DAO system requires a transparency and also a decoupling from centralized infrastructure that can only be achieved onchain. At the current moment we don't belive that a cross-chain-governance of Polychain Monsters is possible.
-
-This makes it necessary that assets and systems from the Polychain Monsters Ecosystem,
-
-- which should be used in the governance
-- or which should be governed
-  have to be on a single chain.
-
-This is quite the opposite to the current situation, where the Polychain Monster NFTs exist on Ethereum, BNB Chain, Polygon and Solana and can only be bridged with non-negligible cost.
-
-Therefore we have to transfer all assets and systems (like the collector staking) to a single chain and rebuild the onchain, if they are not onchain yet (like the Collector Staking)
-
 As noted in the [Governance Process section](#governance-process), Polychain Monsters' governance will predominantly occur on-chain. A DAO necessitates transparency and decoupling from centralized infrastructure, which can solely be achieved on-chain. Presently, we do not belive that cross-chain governance of Polychain Monsters is feasible.
 
 Accordingly, assets and systems from the Polychain Monsters ecosystem that require governance or will be utilized in governance must be present on a single chain. This is in contrast to the current situation, wherein Polychain Monster NFTs exist on Ethereum, BNB Chain, Polygon, and Solana and and can only be bridged with non-negligible cost.
