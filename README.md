@@ -42,6 +42,20 @@ Aside from the governance benefits we have already described, this approach woul
 - A radical simplification of development, leading to faster progress
 - Relief from high fees, particularly on Ethereum, which impedes participation in features for many early adopters.
 
+## Which Monsters give voting power?
+
+My strategy for the Polychain Monsters DAO involves ensuring that you do not lose the $PMON spent on acquiring new Monsters that come after Generation 1, which I will refer to as DAOmon for clarity.
+
+When you purchase a DAOmon, the $PMON spent on the purchase go directly to the DAO treasury in a 1:1 ratio. The purchased DAOmon each grant you one vote to participate in the decision-making process for the DAO treasury. Thus, you do not lose any $PMON but you receive a DAOmon.
+
+The current Generation 1 **cannot** give you voting power because no $PMON flew into the treasury when they were purchased. The $PMON was mostly burned or redistributed to Collector Stakers.
+
+Instead, we plan to distribute $PMON from the current treasury through the Generation 1 Collector Staking.
+
+These funds may not be liquid, but they can be utilized to buy DAOmon. In this manner, truely longterm oriented Generation 1 holders can obtain voting power for the DAO treasury without violating the rule that DAOmon can only be generated via a flow of $PMON into the DAO treasury.
+
+</br>
+
 ## FAQ
 
 ### Do we prefer an EVM chain ?
@@ -73,5 +87,3 @@ Proposals will require a certain amount of locked $PMON, currently set at 100,00
 This includes funding features/projects, distributing PMON from the treasury, providing incentives in the ecosystem, and more, all at a high level.
 
 While individuals interested in funded work for the project must submit applications for funding, initiatives can also happen without approval through the DAO. For example, someone may build Dune Dashboards or a similar project independently.
-
-</br>
