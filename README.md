@@ -42,9 +42,7 @@ Aside from the governance benefits we have already described, this approach woul
 - A radical simplification of development, leading to faster progress
 - Relief from high fees, particularly on Ethereum, which impedes participation in features for many early adopters.
 
-## Single Chain vs. Cross Chain
-
-# FAQ
+## FAQ
 
 ### Do we prefer an EVM chain ?
 
@@ -60,7 +58,7 @@ The possibility of slashing exists in theory, for example, if a proposal fails t
 
 ### Can smaller wallets join together to create a group proposal?
 
-Yes, delegation of voting power will be possible, but we are still deciding whether to enable it directly from the beginning. During a transition period, only limited proposals may be possible.
+Delegation of voting power will most likely be possible, but we are still deciding whether to enable it directly from the beginning. During a transition period, only limited proposals may be possible.
 
 ### Does this mean that the community controls the fate of the project?
 
