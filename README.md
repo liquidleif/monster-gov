@@ -42,4 +42,38 @@ Aside from the governance benefits we have already described, this approach woul
 - A radical simplification of development, leading to faster progress
 - Relief from high fees, particularly on Ethereum, which impedes participation in features for many early adopters.
 
+## Single Chain vs. Cross Chain
+
+# FAQ
+
+### Do we prefer an EVM chain ?
+
+Yes.
+
+Firstly, our skills are best suited for EVM environments, making it easier to develop and maintain applications. Secondly, EVM has (in my opinion) the best tools and open source code in the crypto industry, with Solana having some edge in certain NFT applications. Additionally, I think that the majority of the best development communities work in EVM, which is important for collaboration and innovation.
+
+Finally, Lindy's Law: EVM has survived numerous competitors, black swan events, and crises, while comparable non-EVM chains/technologies have not (yet). While I wouldn't bet against Solana, betting on them carries a higher risk compared to EVM chains.
+
+### Do you lose your PMON or cant use them for a time lock period after you use them on a proposal?
+
+The possibility of slashing exists in theory, for example, if a proposal fails to pass. However, it is unlikely to occur unless there is persistent misbehavior. I believe the best solution is to allow only $PMON that have been locked for at least a year to be used for making proposals. This will provide appropriate incentives for taking a long-term view when proposing changes.
+
+### Can smaller wallets join together to create a group proposal?
+
+Yes, delegation of voting power will be possible, but we are still deciding whether to enable it directly from the beginning. During a transition period, only limited proposals may be possible.
+
+### Does this mean that the community controls the fate of the project?
+
+It's important to note that a DAO is not necessarily controlled by "The community," but rather by individuals who have a significant and long-term stake in the project.
+
+### How do we prevent the system from getting spammed with lots of unnecessary requests?
+
+Proposals will require a certain amount of locked $PMON, currently set at 100,000+.
+
+### What kind of decisions should be covered by the DAO?
+
+This includes funding features/projects, distributing PMON from the treasury, providing incentives in the ecosystem, and more, all at a high level.
+
+While individuals interested in funded work for the project must submit applications for funding, initiatives can also happen without approval through the DAO. For example, someone may build Dune Dashboards or a similar project independently.
+
 </br>
