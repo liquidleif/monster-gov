@@ -87,3 +87,7 @@ Proposals will require a certain amount of locked $PMON, currently set at 100,00
 This includes funding features/projects, distributing PMON from the treasury, providing incentives in the ecosystem, and more, all at a high level.
 
 While individuals interested in funded work for the project must submit applications for funding, initiatives can also happen without approval through the DAO. For example, someone may build Dune Dashboards or a similar project independently.
+
+### Will rarity of the DAOmons influence their voting power?
+
+Rarity won't affect voting power. In fact, the idea that rarity is crucial for governance is unfamiliar to most NFT investors, and could be a barrier to entry. Therefore, it's easier to adopt a straightforward approach where one DAOmon equals one vote. Additionally, rarity can be difficult to define, as demonstrated by the current challenges faced for the Collector Staking.
