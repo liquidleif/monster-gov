@@ -91,3 +91,7 @@ While individuals interested in funded work for the project must submit applicat
 ### Will rarity of the DAOmons influence their voting power?
 
 Rarity won't affect voting power. In fact, the idea that rarity is crucial for governance is unfamiliar to most NFT investors, and could be a barrier to entry. Therefore, it's easier to adopt a straightforward approach where one DAOmon equals one vote. Additionally, rarity can be difficult to define, as demonstrated by the current challenges faced for the Collector Staking.
+
+### Is there a way to get liquid rewards from the Collector Staking?
+
+We are considering to offer an option to claim a part of the rewards as liquid $PMON from the Collector Staking. The other part of your rewards would go to the DAO treasury though, basically meaning free $PMON for the DAO treasury. The share could e.g. be 1% claimable and 99% foing to the DAO treasury.
