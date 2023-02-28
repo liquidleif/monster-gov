@@ -34,13 +34,20 @@ Accordingly, assets and systems from the Polychain Monsters ecosystem that requi
 
 Consequently, we must transfer all assets and systems, including the collector staking, to a single chain and rebuild on-chain systems if not already present, like the Collector Staking.
 
-Our current preferred approach involves taking a snapshot of the Polychain Monster NFTs across all our chains, followed by reminting them on the target chain we select for Polychain Monsters. We would then stop supporting Polychain Monster NFTs on other chains.
-
 Aside from the governance benefits we have already described, this approach would provide several other advantages, such as:
 
 - Increased liquidity density and superior user experience on the secondary markets
 - A radical simplification of development, leading to faster progress
 - Relief from high fees, particularly on Ethereum, which impedes participation in features for many early adopters.
+
+## How would the Transition to a Single Chain work ?
+
+Current concept is the following:
+
+- Hardminted Monsters: The monsters have to be burned with a TX and can afterwards be minted on the target chain.
+- Softminted Monsters: We deactivate the minting of softminted monsters and allow users to mint them on the target chain.
+
+There are multiple reason why a TX is necessary. One being that this reduces the insecurity involved with a snapshot and another one being that the transition is opt-in by the user.
 
 ## Which Monsters give voting power? And how to get them?
 
