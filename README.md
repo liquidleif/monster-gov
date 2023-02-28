@@ -34,13 +34,20 @@ Accordingly, assets and systems from the Polychain Monsters ecosystem that requi
 
 Consequently, we must transfer all assets and systems, including the collector staking, to a single chain and rebuild on-chain systems if not already present, like the Collector Staking.
 
-Our current preferred approach involves taking a snapshot of the Polychain Monster NFTs across all our chains, followed by reminting them on the target chain we select for Polychain Monsters. We would then stop supporting Polychain Monster NFTs on other chains.
-
 Aside from the governance benefits we have already described, this approach would provide several other advantages, such as:
 
 - Increased liquidity density and superior user experience on the secondary markets
 - A radical simplification of development, leading to faster progress
 - Relief from high fees, particularly on Ethereum, which impedes participation in features for many early adopters.
+
+## How would the Transition to a Single Chain work ?
+
+Current concept is the following:
+
+- Hardminted Monsters: The monsters have to be burned with a TX and can afterwards be minted on the target chain.
+- Softminted Monsters: The user has to waive their right to softmint any monsters in the future. This can be done by a single TX.
+
+There are multiple reason why a TX is necessary. One being that this reduces the insecurity involved with a snapshot and another one being that the transition is opt-in by the user.
 
 ## Which Monsters give voting power? And how to get them?
 
@@ -91,3 +98,7 @@ While individuals interested in funded work for the project must submit applicat
 ### Will rarity of the DAOmons influence their voting power?
 
 Rarity won't affect voting power. In fact, the idea that rarity is crucial for governance is unfamiliar to most NFT investors, and could be a barrier to entry. Therefore, it's easier to adopt a straightforward approach where one DAOmon equals one vote. Additionally, rarity can be difficult to define, as demonstrated by the current challenges faced for the Collector Staking.
+
+### Is there a way to get liquid rewards from the Collector Staking?
+
+We are considering to offer an option to claim a part of the rewards as liquid $PMON from the Collector Staking. The other part of your rewards would go to the DAO treasury though, basically meaning free $PMON for the DAO treasury. The share could e.g. be 1% claimable and 99% foing to the DAO treasury.
