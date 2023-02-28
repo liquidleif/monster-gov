@@ -45,7 +45,7 @@ Aside from the governance benefits we have already described, this approach woul
 Current concept is the following:
 
 - Hardminted Monsters: The monsters have to be burned with a TX and can afterwards be minted on the target chain.
-- Softminted Monsters: The user has to waive their right to softmint any monsters in the future. This can be done by a single TX.
+- Softminted Monsters: We deactivate the minting of softminted monsters and allow users to mint them on the target chain.
 
 There are multiple reason why a TX is necessary. One being that this reduces the insecurity involved with a snapshot and another one being that the transition is opt-in by the user.
 
