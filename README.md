@@ -51,6 +51,10 @@ There are multiple reason why a TX is necessary. One being that this reduces the
 
 ## Which Monsters give voting power? And how to get them?
 
+Our currently preferred option is "Option B".
+
+**Option A: Release of dedicated monsters with voting power (DAOmon)**
+
 My strategy for the Polychain Monsters DAO involves ensuring that you do not lose the $PMON spent on acquiring new Monsters that come after Generation 1, which I will refer to as DAOmon for clarity.
 
 When you purchase a DAOmon, the $PMON spent on the purchase go directly to the DAO treasury in a 1:1 ratio. The purchased DAOmon each grant you one vote to participate in the decision-making process for the DAO treasury (meaning that you can vote on proposals). Thus, you do not lose any $PMON but you receive a DAOmon.
@@ -60,6 +64,16 @@ The current Generation 1 **cannot** give you voting power because no $PMON flew 
 Instead, we plan to distribute $PMON from the current treasury through the Generation 1 Collector Staking.
 
 These funds may not be liquid, but they can be utilized to buy DAOmon. If you buy DAOmon, the $PMON flow into the treasury. In this manner, truely longterm oriented Generation 1 holders can obtain voting power for the DAO treasury without violating the rule that DAOmon can only be generated via a flow of $PMON into the DAO treasury.
+
+**Option B: Upgrade of Gen-1 Monsters for Voting Power**
+
+You can use $PMON to upgrade (or "activate") Gen-1 Monsters and give them voting power in the DAO. The $PMON you spend goes into the DAO treasury, and only activated Polymon can vote on proposals. This way, $PMON and Polymon holders have aligned interests.
+
+We plan to distribute $PMON from the treasury through the Generation 1 Collector Staking. However, only activated Polymon will count toward the Collector Staking.
+
+The funds you receive from staking will not be liquid, but can be used to activate additional Polymon.
+
+Having a high Collector Score is crucial in obtaining $PMON to activate more Polymon, so rarity and thoughtfully-curated collections play a significant role in this system.
 
 </br>
 
