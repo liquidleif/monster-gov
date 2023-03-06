@@ -67,7 +67,7 @@ These funds may not be liquid, but they can be utilized to buy DAOmon. If you bu
 
 **Option B: Upgrade of Gen-1 Monsters for Voting Power**
 
-You can use $PMON to upgrade (or "activate") Gen-1 Monsters and give them voting power in the DAO. The $PMON you spend goes into the DAO treasury, and only activated Polymon can vote on proposals. This way, $PMON and Polymon holders have aligned interests.
+You can use $PMON to upgrade (or "activate") Gen-1 Monsters and give them voting power in the DAO. The $PMON you spend goes into the DAO treasury, and only activated Polymon can vote on proposals. This way, $PMON and Polymon holders have aligned interests. I currently think of 2 $PMON per activation.
 
 We plan to distribute $PMON from the treasury through the Generation 1 Collector Staking. However, only activated Polymon will count toward the Collector Staking.
 
