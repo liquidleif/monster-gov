@@ -47,7 +47,11 @@ Current concept is the following:
 - Hardminted Monsters: The monsters have to be burned with a TX and can afterwards be minted on the target chain.
 - Softminted Monsters: We deactivate the minting of softminted monsters and allow users to mint them on the target chain.
 
-There are multiple reason why a TX is necessary. One being that this reduces the insecurity involved with a snapshot and another one being that the transition is opt-in by the user.
+There are multiples reason why a TX is necessary. One being that this reduces the insecurity involved with a snapshot and another one being that the transition is opt-in by the user.
+
+What does that mean in terms of costs? Let's mainly look at the monsters on Ethereum and BNB Chain. The top 100 holders on Ethereum have on average ~70 monsters, the top 100 holders on BNB Chain have on average ~400 monsters (snapshot date March 14, 2023). If we assume that a burn will cost around $5 per monster on Ethereum and around $0.1 per monster on BNB chain, and if we assume that every collector would bridge 80% of their collection, this would lead to a total cost of $280 per top collector on Ethereum and $32 per collector on BNB Chain. Just as a reference, for somebody to mint and burn pieces of an open edition artwork on Ethereum, it is quite usual to pay $10 per NFT so the gas cost is not due to our collection. 
+
+Still, it's fair if people who decide to bridge will receive some sort of reward. This can be a special monster, $PMON or a mix of both. 
 
 ## Which Monsters give voting power? And how to get them?
 
