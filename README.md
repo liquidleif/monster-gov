@@ -17,7 +17,7 @@ Our plan for now is:
 
 2. CS will stay multi chain as it is already. Rewards shall be provided from treasury. CS2 will be designed as loyalty program. However, as it will get rewards from the treasury, it will be the entry to the DAO.
 
-3. New: We'll launch DAOmon as a separate collection on a new chain and the only entry is $PMON. Read more about DAOmon.
+3. New: We'll launch DAOmon as a separate collection on a new chain and the only entry is $PMON. More info follows soon.
 
 4. Staked DAOmon and/or $PMON will be substantial to receive CS rewards.
 
