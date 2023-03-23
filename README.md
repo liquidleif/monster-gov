@@ -2,6 +2,27 @@
 
 > **Disclaimer**: This is work in progress and ideas/vision, not the final design.
 
+## TLDR Updates
+
+### March 23rd 2023
+
+The last weeks showed that much of the community embraces the transition towards a single chain and the DAO concept. However, while we are already taking measures to further decentralize Polychain Monsters, we will postpone the transition to a single chain for now. The main reasons for that are
+
+- the current shift of users to L2 Blockchains like Arbitrum and Optimism. It is currently not possible to separete airdrop farming from real adoption, therefore we think it is appropriate to wait with the transition until we have more confidence regarding the target chain
+- the interference with the work on CS 2.0 and the DAOmon progress.
+
+Our plan for now is:
+
+1. Current monsters stay on their chains. Only collection which is "bridged" or better "migrated" will be the [Binance Babies](https://opensea.io/collection/binance-nft-mystery-box-polychain-monsters) that should move to the [Gen-1 collection](https://opensea.io/collection/polychainmonsters-bnb) on BNB Chain.
+
+2. CS will stay multi chain as it is already. Rewards shall be provided from treasury. CS2 will be designed as loyalty program. However, as it will get rewards from the treasury, it will be the entry to the DAO.
+
+3. New: We'll launch DAOmon as a separate collection on a new chain and the only entry is $PMON. More info follows soon.
+
+4. Staked DAOmon and/or $PMON will be substantial to receive CS rewards.
+
+---
+
 ## About this Repository
 
 This repository will be used for
@@ -49,9 +70,9 @@ Current concept is the following:
 
 There are multiples reason why a TX is necessary. One being that this reduces the insecurity involved with a snapshot and another one being that the transition is opt-in by the user.
 
-What does that mean in terms of costs? Let's mainly look at the monsters on Ethereum and BNB Chain. The top 100 holders on Ethereum have on average ~70 monsters, the top 100 holders on BNB Chain have on average ~400 monsters (snapshot date March 14, 2023). If we assume that a burn will cost around $5 per monster on Ethereum and around $0.1 per monster on BNB chain, and if we assume that every collector would bridge 80% of their collection, this would lead to a total cost of $280 per top collector on Ethereum and $32 per collector on BNB Chain. Just as a reference, for somebody to mint and burn pieces of an open edition artwork on Ethereum, it is quite usual to pay $10 per NFT so the gas cost is not due to our collection. 
+What does that mean in terms of costs? Let's mainly look at the monsters on Ethereum and BNB Chain. The top 100 holders on Ethereum have on average ~70 monsters, the top 100 holders on BNB Chain have on average ~400 monsters (snapshot date March 14, 2023). If we assume that a burn will cost around $5 per monster on Ethereum and around $0.1 per monster on BNB chain, and if we assume that every collector would bridge 80% of their collection, this would lead to a total cost of $280 per top collector on Ethereum and $32 per collector on BNB Chain. Just as a reference, for somebody to mint and burn pieces of an open edition artwork on Ethereum, it is quite usual to pay $10 per NFT so the gas cost is not due to our collection.
 
-Still, it's fair if people who decide to bridge will receive some sort of reward. This can be a special monster, $PMON or a mix of both. 
+Still, it's fair if people who decide to bridge will receive some sort of reward. This can be a special monster, $PMON or a mix of both.
 
 ## Which Monsters give voting power? And how to get them?
 
