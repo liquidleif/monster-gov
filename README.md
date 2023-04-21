@@ -1,8 +1,14 @@
 # monster-gov
 
-> **Disclaimer**: This is work in progress and ideas/vision, not the final design.
+> **Disclaimer**: This is work in progress and ideas/vision, not the final design. This document does not constitute financial advice. Holding, staking, or engaging with PMON or any other mentioned token (fungible or non-fungible) is inherently risky and may result in losses. No rewards are guaranteed.
 
 ## TLDR Updates
+
+### April 21st 2023
+
+We've realized the importance of establishing a "PMON flywheel" before initiating the DAO setup. As a result, we'll concentrate on developing PMON use cases first to ensure a solid foundation for our DAO.
+
+Anticipate seamless PMON integration throughout our entire ecosystem.
 
 ### March 23rd 2023
 
